@@ -28,6 +28,13 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ---
 
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmakridou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -40,8 +47,3 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm " width="40" height="40"/>&nbsp;
 </div>
 
-
----
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmakridou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
