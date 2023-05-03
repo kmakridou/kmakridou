@@ -19,10 +19,8 @@
 ### :woman_technologist: About Me :
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
 
-- :telescope: I’m a postgraduate student in Big Data Driven Networked Systems. Graduated in Computer and Information Science.
+- :telescope: I’m a postgraduate student in Big Data Driven Networked Systems. Graduated in Computer and Information Science. Here you can see some of my current projects.
 
-- :seedling: Here you can see some of my current projects.
+- :seedling: In my free time I am developing games in C# and Unity.
 
-- :zap: In my free time I am developing games in C# and Unity
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-white?style=flat&logo=Gmail&logoColor=Red)](https://mail.google.com/mail/u/0/#inbox)
+- :zap: Experienced in Python and data visualization. Always looking to learn and explore new datasets. Let's turn data into insights!
