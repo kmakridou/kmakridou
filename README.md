@@ -17,7 +17,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
+Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Student from Greece.
 
 - :telescope: I’m a postgraduate student in Big Data Driven Networked Systems. Graduated in Computer and Information Science. Here you can see some of my current projects.
 
