@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Student from Greece.
 
-- :telescope: I’m a postgraduate student in Big Data Driven Networked Systems. Graduated in Computer and Information Science. Here you can see some of my current projects.
+- :telescope: Junior Data Engineer, from Greece
 
 - :seedling: In my free time I am developing games in C# and Unity.
 
