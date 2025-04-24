@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: Junior Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, from Greece
+- :telescope: Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, from Greece
 
 - :seedling: In my free time I am developing games in C# and Unity.
 
